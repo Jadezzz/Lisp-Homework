@@ -321,7 +321,19 @@ Example Output:
  }
 ```
 
+
+
+In Terminal:
+
+<img src='diff.png' align=left>
+
+
+
+
+
 #### Code
+
+
 
 ```commonlisp
 ;; Function that computes longest common subsequence(lcs)
