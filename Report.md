@@ -325,11 +325,7 @@ Example Output:
 
 In Terminal:
 
-<img src='diff.png' align=left>
-
-
-
-
+![](diff.png)
 
 #### Code
 
@@ -410,4 +406,3 @@ diff 最重要的精神是 Longest Common Subsequence(LCS)，先求出兩個文�
 6. 回到 1.
 
 （註：當 LCS 被 pop 完後，dif 值是 NIL， 所以個會依序把 list1 和 list2 中剩下的元素印完)
-
